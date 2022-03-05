@@ -1,0 +1,6 @@
+const asynawait=require("./asyncawait/asyncawait")
+const callback=require("./callback/callback")
+const promises=require("./promises/promise")
+const setledPromise=require("./promises/settledPromise")
+const promiseMethods=require("./promises/promiseMethods")
+const test=require("./test")
